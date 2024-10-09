@@ -33,7 +33,7 @@ export default function MakeUs() {
           backdropFilter: "blur(10px)",
           boxShadow: "0 4px 30px rgba(0, 0, 0, 0.1)",
         }}
-        className="grid absolute left-[30%] bottom-40 p-10 rounded-lg"
+        className="grid absolute left-[30%] bottom-32 p-10 rounded-lg"
       >
         <div className="">
           <Image src={"/images/Suitcase.svg"} height={50} width={50} alt="" />
